@@ -13,19 +13,21 @@ namespace emp_wage3
             Random rand = new Random();
             int workStatus = rand.Next(0, 3);    
             ///Ctrl +R*R
-            if (workStatus == 1)
+           switch(workStatus)
             {
-                Console.WriteLine("Employee is presnt");
-                dailyWage = PER_HOUR_WAGE * HOURS_WORKED;
-            }
-            else if (workStatus == 2)
-            {
-                Console.WriteLine("Employee has worked part time");
-                dailyWage = PER_HOUR_WAGE * PART_TIME_HOURS;
-            }
-            else
-            {
-                Console.WriteLine("Employee is Absent");
+                case 0:
+                    Console.WriteLine("Employee is Absent");
+                    break;
+                case 1:
+                    Console.WriteLine("Employee is Presnt");
+                    dailyWage = PER_HOUR_WAGE * HOURS_WORKED;
+                    break;
+                case 2:
+                    Console.WriteLine("Employee has worked pert time");
+                    dailyWage = PER_HOUR_WAGE * PART_TIME_HOURS;
+                    break;
+                default:
+                    break;
             }
             Console.WriteLine("Total daily wage earned" + dailyWage);
         }
