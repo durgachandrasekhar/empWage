@@ -1,0 +1,13 @@
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\obj\Debug\netcoreapp3.1\emp wage3.csproj.AssemblyReference.cache
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\obj\Debug\netcoreapp3.1\emp wage3.AssemblyInfoInputs.cache
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\obj\Debug\netcoreapp3.1\emp wage3.AssemblyInfo.cs
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\obj\Debug\netcoreapp3.1\emp wage3.csproj.CoreCompileInputs.cache
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\bin\Debug\netcoreapp3.1\emp wage3.exe
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\bin\Debug\netcoreapp3.1\emp wage3.deps.json
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\bin\Debug\netcoreapp3.1\emp wage3.runtimeconfig.json
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\bin\Debug\netcoreapp3.1\emp wage3.runtimeconfig.dev.json
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\bin\Debug\netcoreapp3.1\emp wage3.dll
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\bin\Debug\netcoreapp3.1\emp wage3.pdb
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\obj\Debug\netcoreapp3.1\emp wage3.dll
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\obj\Debug\netcoreapp3.1\emp wage3.pdb
+C:\Users\SHIVA KUMAR\Desktop\empWage\emp wage3\emp wage3\obj\Debug\netcoreapp3.1\emp wage3.genruntimeconfig.cache
