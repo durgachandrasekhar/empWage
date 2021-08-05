@@ -6,30 +6,14 @@ namespace emp_wage3
     {
         static void Main(string[] args)
         {
-            int PER_HOUR_WAGE = 1000;
-            int HOURS_WORKED = 8;
-            int PART_TIME_HOURS = 4;
-            int dailyWage = 0;
+            Console.WriteLine("Welcome to Employee Wage Computation Program");
+            int IS_FULL_TIME = 1;
             Random rand = new Random();
-            int workStatus = rand.Next(0, 3);    
-            ///Ctrl +R*R
-           switch(workStatus)
-            {
-                case 0:
-                    Console.WriteLine("Employee is Absent");
-                    break;
-                case 1:
-                    Console.WriteLine("Employee is Presnt");
-                    dailyWage = PER_HOUR_WAGE * HOURS_WORKED;
-                    break;
-                case 2:
-                    Console.WriteLine("Employee has worked pert time");
-                    dailyWage = PER_HOUR_WAGE * PART_TIME_HOURS;
-                    break;
-                default:
-                    break;
-            }
-            Console.WriteLine("Total daily wage earned" + dailyWage);
+            int empCheck = rand.Next(0, 2);
+            if ( empCheck == IS_FULL_TIME)
+                Console.WriteLine("Emplooyee is Present");
+            else
+                Console.WriteLine("Employee is Absent");
         }
     }
-}   
+}
